@@ -1,7 +1,5 @@
 
-![Alt text](Uni BA.png)
-
-
+![Uni BA](https://user-images.githubusercontent.com/9687840/143562844-d50cb825-4279-489f-90ed-01e0db0ef2ef.png)
 
 Pre-requisites
 1. Download and install WSO2 API Manager 4 (zip distribution used here) https://apim.docs.wso2.com/en/latest/install-and-setup/install/installing-the-product/installing-api-m-runtime/
