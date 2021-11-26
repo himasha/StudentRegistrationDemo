@@ -1,4 +1,7 @@
 
+![Alt text](Uni BA.png)
+
+
 
 Pre-requisites
 1. Download and install WSO2 API Manager 4 (zip distribution used here) https://apim.docs.wso2.com/en/latest/install-and-setup/install/installing-the-product/installing-api-m-runtime/
