@@ -1,0 +1,11 @@
+CREATE DATABASE Students;
+USE Students;
+CREATE TABLE Students (
+   StudentNumber int,
+    LastName varchar(255),
+    FirstName varchar(255),
+    Email varchar(255),
+    Modules varchar(255)
+);
+INSERT INTO Students  (StudentNumber, LastName, FirstName, Email, Modules)
+VALUES (1100, ' Erichsen', 'Stavanger', 'staven@gmail.com', 'Global Strategy');
